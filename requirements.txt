@@ -1,0 +1,5 @@
+snowflake-connector-python
+snowflake-connector-python[pandas]
+newspaper
+lxml_html_clean
+openpyxl
