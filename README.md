@@ -1,7 +1,3 @@
-# FWD---S&P-500-Cortex-Analyst
-
-# FWDDemo
-
 This project fetches articles from the NewsAPI, extracts full article content using the `newspaper` library, and stores the data in a Snowflake database. The project also saves the articles in a CSV file for local storage.
 
 ## Features
